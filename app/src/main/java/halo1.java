@@ -1,0 +1,2 @@
+public enum halo1 {
+}
